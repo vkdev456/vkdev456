@@ -47,11 +47,5 @@
 
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9Y13HSJHM4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9Y13HSJHM4');
-</script>
+<!-- Invisible Google Analytics tracking pixel -->
+<img src="https://www.google-analytics.com/g/collect?v=2&tid=G-9Y13HSJHM4&gtm=2oe9b&page=github-profile&cid=555" width="0" height="0" />
