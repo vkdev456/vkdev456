@@ -48,5 +48,4 @@
 
 
 
-<!-- Invisible Google Analytics tracking pixel -->
-<img src="https://www.google-analytics.com/g/collect?v=2&tid=G-C2VQVE4NM5&gtm=2oe9b&page=github-profile&cid=555" width="0" height="0" alt="profile views" />
+
