@@ -45,9 +45,4 @@
 </div>
 
 ---
-<h3 align="left">📜 Certifications</h3>
-
-- [Data Structures and Algorithms ](https://drive.google.com/file/d/1DmpWEqBPhVsgApkf2RBfUTRK6W1WL1V0/view?usp=sharing)
-- [Full-Stack Web Development](https://drive.google.com/file/d/19vpoe5eGGFKXoS7gBKgP3ikBOWn1-vWE/view?usp=sharing)  
-
   
