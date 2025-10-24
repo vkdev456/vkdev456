@@ -34,7 +34,7 @@
 <h3 align="left">📈 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vkdev456&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vkdev456&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="150" />
   <img src="https://streak-stats.demolab.com?user=vkdev456&theme=dark&hide_border=true" height="150" />
 </div>
 
