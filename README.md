@@ -3,8 +3,8 @@
 
 <h4 align="left">💻 Currently Working On:</h4>
 <ul>
-  <li>Building expertise in <strong>Backend Development</strong></li>
-  <li>Sharpening skills in <strong>Full-Stack Web Development</strong></li>
+  <li>Building expertise in <strong>Full-Stack Web Development</strong></li>
+  <li>Sharpening skills in <strong>Backend Development</strong></li>
   <li>Advancing in <strong>Data Structures & Algorithms (DSA)</strong></li>
 </ul>
 
